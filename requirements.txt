@@ -2,7 +2,7 @@ tqdm
 numpy
 pandas
 Keras==2.3.1
-tensorflow==1.14.0
+tensorflow==2.11.1
 graphviz
 Pillow==6.2.0
 pydot==1.4.1
